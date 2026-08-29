@@ -1,6 +1,6 @@
-# Colorful Watch using p5js
+# Animated Colorful Watch using p5js
 
-My work is a fork from Daniel Shiffman's work. I've just added an arc and a clock hand for tenths of a second, and an outer arc to achieve  a better appearance of a real watch. Also, I've written comments for almost every line of code, so you can have a better understanding of what the code does.
+My work is a fork from Daniel Shiffman's work. I've just added an animated arc and a clock hand for tenths of a second, and an outer arc to achieve a better appearance of a real watch. Also, I've written comments for almost every line of code, so you can have a better understanding of what the code does.
 
 ---
 
