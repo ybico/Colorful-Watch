@@ -4,9 +4,6 @@
   a better appearance of a real watch.
   Also, I've written comments for almost every line of code, so 
   you can have a better understanding of what the code does.
-  Later on, I'll be adding this fork to my GitHub account.
-  For any further explanation, you may contact me via whatsApp at
-  +51 996 852 708.
   Ybico.
 */
 
